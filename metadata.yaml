@@ -1,0 +1,28 @@
+_repo: The-Suffrage-Cook-Book_26323
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Kleber, L. O., Mrs.
+    gutenberg_agent_id: '31913'
+    url: http://www.gutenberg.org/2009/agents/31913
+covers:
+- cover_type: archival
+  image_path: 26323-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Suffrage
+gutenberg_issued: '2008-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- United States'
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: The Suffrage Cook Book
+url: http://www.gutenberg.org/ebooks/26323
