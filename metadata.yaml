@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 26323-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26323#The-Suffrage-Cook-Book
 gutenberg_bookshelf:
 - Cookery
 - Suffrage
